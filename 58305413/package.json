@@ -1,0 +1,14 @@
+{
+  "name": "stackoverflow-58305413",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pktippa@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.0"
+  }
+}
