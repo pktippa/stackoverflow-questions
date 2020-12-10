@@ -9,6 +9,6 @@
   "author": "pktippa@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.18.1"
   }
 }
